@@ -1,4 +1,4 @@
-"use strict";
+'use strict'
 
 // 1. Read the JSON file into a variable called students
 const students = require('./students.json')
